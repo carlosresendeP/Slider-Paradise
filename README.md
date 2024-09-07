@@ -1,2 +1,2 @@
 # Slider-Paradise
- Site desencolvido com controles deslisantes 
+ Site desenvolvido com controles deslisantes 
